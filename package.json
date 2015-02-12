@@ -1,0 +1,12 @@
+{
+  "name": "angular-swipe",
+  "description": "Angular Swipe Module",
+  "version": "1.0.0",
+  "author": "Kevin Knoll",
+  "website": "https://github.com/kevinknoll/angular-swipe",
+  "private": true,
+  "devDependencies": {
+    "grunt": "0.4.5",
+    "grunt-contrib-uglify": "0.4.0"
+  }
+}
